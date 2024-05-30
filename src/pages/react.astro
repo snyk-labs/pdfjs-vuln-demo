@@ -3,6 +3,6 @@ import Layout from '../layouts/Layout.astro';
 import ReactPdfViewer from '../components/ReactPdfViewer';
 ---
 
-<Layout title='React Example'>
-  <ReactPdfViewer client:load />
+<Layout title='React Component Example'>
+  <ReactPdfViewer client:only='react' />
 </Layout>

@@ -4,12 +4,16 @@
 
 <div>
   <div>
-    <p>Svelte Component</p>
-    <input type="file" />
-    <!-- <Document></Document> -->
+    <h1>Svelte Component Example:</h1>
     <PdfViewer url="/sample.pdf" />
   </div>
 </div>
 
 <style>
+  * {
+    background-color: white;
+  }
+  h1 {
+    margin-bottom: 20px;
+  }
 </style>
