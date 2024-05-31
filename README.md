@@ -7,7 +7,7 @@ This project is intended to serve as a proof of concept to demonstrate exploitin
 - `npm run dev`
 
 ## Testing Things Out
-- First got to [http://localhost:4321/](http://localhost:4321/)
+- First go to [http://localhost:4321/](http://localhost:4321/)
 - Choose whichever frontend framework component you want to test out (react, vue, svelte) by clicking on its corresponding card
 - Make sure the sample PDF (not exploiting the vulnerability) loads up
 - You can find and analyze all the sample PDFs in the `/public` directory. Each one attempts to demonstrate different ways to exploit the vulnerability.
