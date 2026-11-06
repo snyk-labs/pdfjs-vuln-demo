@@ -13,7 +13,7 @@
     "@astrojs/check": "^0.7.0",
     "@astrojs/react": "^3.3.4",
     "@astrojs/svelte": "^5.4.0",
-    "@astrojs/vue": "^4.2.0",
+    "@astrojs/vue": "^6.0.0",
     "@types/react": "^18.3.2",
     "@types/react-dom": "^18.3.0",
     "astro": "^4.8.7",
